@@ -47,11 +47,19 @@ instance of tabbed.
 [1] http://tools.suckless.org/tabbed
 
 **Additional notes for this surf configuration:**
-1 - Surf will save all its config files into ~/.config/surf instead of ~/.surf
-2 - If you press `CTRL + S`, you can search any keyword through the search engine, which is DuckDuckGo. But you can change it :P.
+
+1 - Surf will save all its config files into `~/.config/surf` instead of `~/.surf`
+
+2 - If you press `CTRL + S`, you can search any keyword through the search engine, which is `DuckDuckGo`. But you can change it :P.
+
 3 - Surf will use the clipboard instead of primary for copying. At least in theory, because for me it still continue using primary...
-4 - If you press `CTRL + Shift + M`, dmenu will appear showing you the bookmarks you have stored using `CTRL + M`.
-5 - If you press `CTRL + Shift + H`, dmenu will appear showing you the history surf has stored when you go to a url in 'Go mode'.
-6 - If you press `CTRL + D`, st will appear showing you the downloads you have made.
+
+4 - If you press `CTRL + Shift + M`, `dmenu` will appear showing you the bookmarks you have stored using `CTRL + M`.
+
+5 - If you press `CTRL + Shift + H`, `dmenu` will appear showing you the history `surf` has stored when you go to a url in `'Go mode'`.
+
+6 - If you press `CTRL + D`, `st` will appear showing you the downloads you have made.
+
 7 - As its patch says, if you're in a web page trying to play a video, press `CTRL + w` to stream it with `mpv`.
-8 - The homepage is DuckDuckGo, but again, you can change it.
+
+8 - The homepage is `DuckDuckGo`, but again, you can change it.
